@@ -23,7 +23,7 @@ const Header = () => {
               className="h-8 w-auto"
             />
             <div>
-              <h1 className="text-xl font-bold text-gray-900">Sagala Tech</h1>
+              <h1 className="text-xl font-bold text-gray-900">SagalaTech</h1>
               <p className="text-xs text-gray-600">IT Solutions & Services</p>
             </div>
           </div>

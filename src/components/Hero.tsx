@@ -16,13 +16,14 @@ const Hero = () => {
           <div className="space-y-8">
             <div className="space-y-4">
               <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 leading-tight">
-                Solusi IT
-                <span className="text-blue-600 block">Terpercaya</span>
+                <span className="text-blue-600">SagalaTech</span>
+                <span className="block">Solusi IT Terpercaya</span>
                 untuk Bisnis Anda
               </h1>
               <p className="text-xl text-gray-600 leading-relaxed">
-                Sagala Tech menyediakan layanan IT komprehensif mulai dari pengembangan website, 
-                sistem POS, automasi AI, hingga instalasi hardware untuk mendukung transformasi digital bisnis Anda.
+                SagalaTech adalah perusahaan penyedia layanan IT komprehensif terpercaya di Indonesia. 
+                Kami menyediakan solusi lengkap mulai dari pengembangan website, sistem POS, automasi AI, 
+                hingga instalasi hardware untuk mendukung transformasi digital bisnis Anda.
               </p>
             </div>
 
@@ -70,7 +71,7 @@ const Hero = () => {
           <div className="relative">
             <div className="bg-gradient-to-r from-blue-600 to-indigo-600 rounded-2xl p-8 text-white">
               <div className="space-y-6">
-                <h3 className="text-2xl font-bold">Mengapa Memilih Sagala Tech?</h3>
+                <h3 className="text-2xl font-bold">Mengapa Memilih SagalaTech?</h3>
                 <div className="space-y-4">
                   <div className="flex items-start space-x-3">
                     <div className="bg-white/20 rounded-full p-1 mt-1">
