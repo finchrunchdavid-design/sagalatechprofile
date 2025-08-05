@@ -5,9 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && npm run generate-sitemap",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "generate-sitemap": "echo 'Sitemap already created in public/sitemap.xml'",
+    "seo-audit": "echo 'Run lighthouse audit for SEO performance'",
+    "build-production": "vite build --mode production"
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
